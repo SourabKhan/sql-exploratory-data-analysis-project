@@ -1,11 +1,8 @@
 -- Cumulative Analysis
--- To calculate running totals or moving averages for key metrics.
--- To track performance over time cumulatively.
--- Useful for growth analysis or identifying long-term trends.
 
 -- Calculate the total sales per month and the running total of sales over time.
--- Year
 
+-- Year
 SELECT 
 	order_date,
 	total_sales,
